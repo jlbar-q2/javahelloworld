@@ -9,6 +9,7 @@ public class JavaHelloWorld
 		System.out.println("Java Hello World");
 		System.out.println("Hello AGAIN!");
 		System.out.println("I will say some more things now");
+		System.out.println("more stuff");
 	}
 }
 
